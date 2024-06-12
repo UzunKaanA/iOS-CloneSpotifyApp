@@ -21,9 +21,6 @@ A clone of the Spotify app for iOS, developed using Swift. This project demonstr
   <img src="https://github.com/UzunKaanA/iOS-CloneSpotifyApp/assets/115887408/690afaa8-df52-4d7b-9949-0482c8b0b905" width="200" /> 
 </p>
 
-
-(Add some screenshots of your app here)
-
 ## Technologies Used
 - Xcode
 - Swift
